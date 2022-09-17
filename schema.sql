@@ -1,7 +1,6 @@
 drop table public.world_population;
 
 create table public.world_population(
-    id serial primary key,
     country_name text,
     "2011" bigint,
     "2012" bigint,
@@ -21,7 +20,6 @@ select * from public.world_population;
 drop table public.unemployment_rate;
 
 create table public.unemployment_rate(
-    id serial primary key,
     country_name text,
     "2011" int,
     "2012" int,
