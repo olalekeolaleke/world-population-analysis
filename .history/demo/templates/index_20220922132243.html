@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!--CSS Link-->
-    <link rel="stylesheet" href="/demo/static/style.css">
+    <link rel="stylesheet" href="./static/style.css">
     </script>
 </head>
 
@@ -107,6 +107,7 @@
 <!-- <script src="{{ url_for('static', filename='js/choropleth.js') }}"></script> -->
 <!-- <script src="{{ url_for('static', filename='js/config.js') }}"></script> -->
 <!-- <script src="{{ url_for('static', filename='js/us-states.js') }}"></script> -->
-<script src="../static/app.js'></script>
+<script src="{{ url_for('static', filename='/demo/static/app.js') }}"></script>
+
 
 </html>
