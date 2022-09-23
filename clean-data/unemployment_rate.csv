@@ -1,1129 +1,1117 @@
-Country,Variable,Value
-Afghanistan,2015,11.13
-Angola,2015,7.39
-Albania,2015,17.19
-United Arab Emirates,2015,1.77
-Argentina,2015,7.52
-Armenia,2015,18.26
-Australia,2015,6.05
-Austria,2015,5.72
-Azerbaijan,2015,4.96
-Burundi,2015,1.6
-Belgium,2015,8.48
-Benin,2015,2.01
-Burkina Faso,2015,4.32
-Bangladesh,2015,4.37
-Bulgaria,2015,9.14
-Bahrain,2015,1.2
-Bahamas,2015,12
-Bosnia and Herzegovina,2015,27.69
-Belarus,2015,5.84
-Belize,2015,7.58
-Bolivia,2015,3.11
-Brazil,2015,8.43
-Barbados,2015,9.8
-Brunei Darussalam,2015,7.78
-Bhutan,2015,2.45
-Botswana,2015,20.57
-Central African Republic,2015,5.61
-Canada,2015,6.91
-Switzerland,2015,4.8
-Channel Islands,2015,8.22
-Chile,2015,6.51
-China,2015,4.63
-Cote d'Ivoire,2015,3.15
-Cameroon,2015,3.55
-"Congo, Dem. Rep.",2015,4.47
-"Congo, Rep.",2015,20.45
-Colombia,2015,8.3
-Comoros,2015,8.14
-Cabo Verde,2015,11.8
-Costa Rica,2015,9
-Cuba,2015,2.4
-Cyprus,2015,14.91
-Czech Republic,2015,5.05
-Germany,2015,4.62
-Djibouti,2015,26.33
-Denmark,2015,6.28
-Dominican Republic,2015,7.61
-Algeria,2015,11.21
-Ecuador,2015,3.62
-"Egypt, Arab Rep.",2015,13.05
-Eritrea,2015,5.83
-Spain,2015,22.06
-Estonia,2015,6.19
-Ethiopia,2015,2.27
-Finland,2015,9.38
-Fiji,2015,4.3
-France,2015,10.35
-Gabon,2015,20.61
-United Kingdom,2015,5.3
-Georgia,2015,16.51
-Ghana,2015,6.81
-Guinea,2015,4.92
-Gambia,2015,9.47
-Guinea-Bissau,2015,5.87
-Equatorial Guinea,2015,8.54
-Greece,2015,24.9
-Guatemala,2015,2.51
-Guam,2015,6.9
-Guyana,2015,13.21
-"Hong Kong SAR, China",2015,3.31
-Honduras,2015,6.15
-Croatia,2015,16.18
-Haiti,2015,13.96
-Hungary,2015,6.81
-Indonesia,2015,4.51
-India,2015,5.43
-Ireland,2015,9.91
-"Iran, Islamic Rep.",2015,11.17
-Iraq,2015,10.73
-Iceland,2015,3.98
-Israel,2015,5.25
-Italy,2015,11.9
-Jamaica,2015,13.51
-Jordan,2015,13.08
-Japan,2015,3.4
-Kazakhstan,2015,4.93
-Kenya,2015,2.78
-Kyrgyz Republic,2015,7.56
-Cambodia,2015,0.39
-"Korea, Rep.",2015,3.55
-Kuwait,2015,2.2
-Lebanon,2015,9.32
-Liberia,2015,2.08
-Libya,2015,19.53
-St. Lucia,2015,20.56
-Sri Lanka,2015,4.52
-Lesotho,2015,23.84
-Lithuania,2015,9.12
-Luxembourg,2015,6.67
-Latvia,2015,9.87
-"Macao SAR, China",2015,1.81
-Morocco,2015,9.46
-Moldova,2015,4.7
-Madagascar,2015,1.79
-Maldives,2015,6.93
-Mexico,2015,4.31
-North Macedonia,2015,26.07
-Mali,2015,7.73
-Malta,2015,5.38
-Myanmar,2015,0.77
-Montenegro,2015,17.54
-Mongolia,2015,4.86
-Mozambique,2015,3.43
-Mauritania,2015,10.14
-Mauritius,2015,7.41
-Malawi,2015,5.86
-Malaysia,2015,3.1
-North America,2015,5.46
-Namibia,2015,20.91
-New Caledonia,2015,14.73
-Niger,2015,0.53
-Nigeria,2015,4.31
-Nicaragua,2015,4.7
-Netherlands,2015,6.87
-Norway,2015,4.3
-Nepal,2015,3.1
-New Zealand,2015,5.41
-Oman,2015,3.39
-Pakistan,2015,3.57
-Panama,2015,2.98
-Peru,2015,3.27
-Philippines,2015,3.07
-Papua New Guinea,2015,2.48
-Poland,2015,7.5
-Puerto Rico,2015,12
-"Korea, Dem. People's Rep.",2015,2.74
-Portugal,2015,12.44
-Paraguay,2015,4.56
-West Bank and Gaza,2015,23
-French Polynesia,2015,12.17
-Qatar,2015,0.17
-Romania,2015,6.81
-Russian Federation,2015,5.57
-Rwanda,2015,1.15
-South Asia,2015,5.14
-Saudi Arabia,2015,5.59
-Sudan,2015,17.49
-Senegal,2015,6.76
-Singapore,2015,3.79
-Solomon Islands,2015,0.73
-Sierra Leone,2015,4.74
-El Salvador,2015,4
-Somalia,2015,18.9
-Serbia,2015,17.66
-South Sudan,2015,12.27
-Sao Tome and Principe,2015,13.82
-Suriname,2015,7.22
-Slovak Republic,2015,11.48
-Slovenia,2015,8.96
-Sweden,2015,7.43
-Eswatini,2015,23.33
-Syrian Arab Republic,2015,8.71
-Chad,2015,1.07
-Togo,2015,2.2
-Thailand,2015,0.6
-Tajikistan,2015,7.55
-Turkmenistan,2015,4.14
-Timor-Leste,2015,4.45
-Tonga,2015,2.55
-Trinidad and Tobago,2015,2.43
-Tunisia,2015,15.16
-Turkiye,2015,10.24
-Tanzania,2015,2.14
-Uganda,2015,1.91
-Ukraine,2015,9.14
-Uruguay,2015,7.49
-United States,2015,5.28
-Uzbekistan,2015,5.2
-St. Vincent and the Grenadines,2015,19.09
-"Venezuela, RB",2015,6.08
-Virgin Islands (U.S.),2015,12.62
-Vietnam,2015,1.85
-Vanuatu,2015,1.86
-Samoa,2015,8.5
-"Yemen, Rep.",2015,13.77
-South Africa,2015,25.15
-Zambia,2015,10.13
-Zimbabwe,2015,4.78
-Afghanistan,2016,11.16
-Angola,2016,7.41
-Albania,2016,15.42
-United Arab Emirates,2016,1.64
-Argentina,2016,8.11
-Armenia,2016,17.62
-Australia,2016,5.71
-Austria,2016,6.01
-Azerbaijan,2016,5
-Burundi,2016,1.59
-Belgium,2016,7.83
-Benin,2016,1.83
-Burkina Faso,2016,4.43
-Bangladesh,2016,4.35
-Bulgaria,2016,7.57
-Bahrain,2016,1.19
-Bahamas,2016,12.7
-Bosnia and Herzegovina,2016,25.41
-Belarus,2016,5.84
-Belize,2016,7
-Bolivia,2016,3.5
-Brazil,2016,11.6
-Barbados,2016,8.25
-Brunei Darussalam,2016,8.38
-Bhutan,2016,2.49
-Botswana,2016,21.03
-Central African Republic,2016,5.65
-Canada,2016,7
-Switzerland,2016,4.92
-Channel Islands,2016,7.74
-Chile,2016,6.74
-China,2016,4.53
-Cote d'Ivoire,2016,2.6
-Cameroon,2016,3.58
-"Congo, Dem. Rep.",2016,4.48
-"Congo, Rep.",2016,20.56
-Colombia,2016,8.69
-Comoros,2016,8.1
-Cabo Verde,2016,12.01
-Costa Rica,2016,8.6
-Cuba,2016,2
-Cyprus,2016,12.95
-Czech Republic,2016,3.95
-Germany,2016,4.12
-Djibouti,2016,26.19
-Denmark,2016,5.99
-Dominican Republic,2016,7.28
-Algeria,2016,10.2
-Ecuador,2016,4.6
-"Egypt, Arab Rep.",2016,12.41
-Eritrea,2016,5.9
-Spain,2016,19.63
-Estonia,2016,6.76
-Ethiopia,2016,2.29
-Finland,2016,8.82
-Fiji,2016,4.32
-France,2016,10.05
-Gabon,2016,20.67
-United Kingdom,2016,4.81
-Georgia,2016,16.6
-Ghana,2016,5.53
-Guinea,2016,4.88
-Gambia,2016,9.5
-Guinea-Bissau,2016,5.95
-Equatorial Guinea,2016,8.63
-Greece,2016,23.54
-Guatemala,2016,2.58
-Guam,2016,5.4
-Guyana,2016,13.46
-"Hong Kong SAR, China",2016,3.39
-Honduras,2016,6.73
-Croatia,2016,13.1
-Haiti,2016,13.93
-Hungary,2016,5.11
-Indonesia,2016,4.3
-India,2016,5.42
-Ireland,2016,8.37
-"Iran, Islamic Rep.",2016,12.62
-Iraq,2016,10.82
-Iceland,2016,2.98
-Israel,2016,4.8
-Italy,2016,11.69
-Jamaica,2016,13.19
-Jordan,2016,15.28
-Japan,2016,3.1
-Kazakhstan,2016,4.96
-Kenya,2016,2.76
-Kyrgyz Republic,2016,7.21
-Cambodia,2016,0.72
-"Korea, Rep.",2016,3.65
-Kuwait,2016,2.16
-Lebanon,2016,9.78
-Liberia,2016,3.08
-Libya,2016,19.53
-St. Lucia,2016,19.65
-Sri Lanka,2016,4.24
-Lesotho,2016,23.48
-Lithuania,2016,7.86
-Luxembourg,2016,6.29
-Latvia,2016,9.64
-"Macao SAR, China",2016,1.94
-Morocco,2016,9.3
-Moldova,2016,4.02
-Madagascar,2016,1.8
-Maldives,2016,6.12
-Mexico,2016,3.86
-North Macedonia,2016,23.72
-Mali,2016,7.57
-Malta,2016,4.69
-Myanmar,2016,1.18
-Montenegro,2016,17.72
-Mongolia,2016,7.24
-Mozambique,2016,3.45
-Mauritania,2016,10.26
-Mauritius,2016,6.81
-Malawi,2016,5.82
-Malaysia,2016,3.44
-North America,2016,5.1
-Namibia,2016,23.35
-New Caledonia,2016,14.69
-Niger,2016,0.53
-Nigeria,2016,7.06
-Nicaragua,2016,3.9
-Netherlands,2016,6.01
-Norway,2016,4.68
-Nepal,2016,2.87
-New Zealand,2016,5.15
-Oman,2016,3.27
-Pakistan,2016,3.78
-Panama,2016,3.26
-Peru,2016,3.74
-Philippines,2016,2.7
-Papua New Guinea,2016,2.48
-Poland,2016,6.16
-Puerto Rico,2016,11.8
-"Korea, Dem. People's Rep.",2016,2.76
-Portugal,2016,11.07
-Paraguay,2016,5.25
-West Bank and Gaza,2016,23.94
-French Polynesia,2016,12.18
-Qatar,2016,0.15
-Romania,2016,5.9
-Russian Federation,2016,5.56
-Rwanda,2016,1.14
-South Asia,2016,5.15
-Saudi Arabia,2016,5.65
-Sudan,2016,17.52
-Senegal,2016,4.46
-Singapore,2016,4.08
-Solomon Islands,2016,0.7
-Sierra Leone,2016,4.66
-El Salvador,2016,4.42
-Somalia,2016,18.89
-Serbia,2016,15.26
-South Sudan,2016,12.3
-Sao Tome and Principe,2016,13.89
-Suriname,2016,7.92
-Slovak Republic,2016,9.67
-Slovenia,2016,8
-Sweden,2016,6.99
-Eswatini,2016,22.72
-Syrian Arab Republic,2016,8.73
-Chad,2016,1.1
-Togo,2016,2.97
-Thailand,2016,0.69
-Tajikistan,2016,6.9
-Turkmenistan,2016,4.17
-Timor-Leste,2016,4.66
-Tonga,2016,2.57
-Trinidad and Tobago,2016,3.21
-Tunisia,2016,15.56
-Turkiye,2016,10.84
-Tanzania,2016,2.16
-Uganda,2016,1.92
-Ukraine,2016,9.35
-Uruguay,2016,7.84
-United States,2016,4.87
-Uzbekistan,2016,5.2
-St. Vincent and the Grenadines,2016,19.11
-"Venezuela, RB",2016,5.32
-Virgin Islands (U.S.),2016,12.68
-Vietnam,2016,1.85
-Vanuatu,2016,1.78
-Samoa,2016,8.31
-"Yemen, Rep.",2016,13.43
-South Africa,2016,26.54
-Zambia,2016,10.87
-Zimbabwe,2016,4.79
-Afghanistan,2017,11.18
-Angola,2017,7.41
-Albania,2017,13.62
-United Arab Emirates,2017,2.46
-Argentina,2017,8.35
-Armenia,2017,17.7
-Australia,2017,5.59
-Austria,2017,5.5
-Azerbaijan,2017,5
-Burundi,2017,1.59
-Belgium,2017,7.09
-Benin,2017,1.64
-Burkina Faso,2017,4.56
-Bangladesh,2017,4.37
-Bulgaria,2017,6.16
-Bahrain,2017,1.18
-Bahamas,2017,9.8
-Bosnia and Herzegovina,2017,20.53
-Belarus,2017,5.65
-Belize,2017,6.6
-Bolivia,2017,3.65
-Brazil,2017,12.82
-Barbados,2017,8.62
-Brunei Darussalam,2017,9.32
-Bhutan,2017,2.45
-Botswana,2017,21.57
-Central African Republic,2017,5.65
-Canada,2017,6.34
-Switzerland,2017,4.8
-Channel Islands,2017,7.14
-Chile,2017,6.96
-China,2017,4.44
-Cote d'Ivoire,2017,3.27
-Cameroon,2017,3.6
-"Congo, Dem. Rep.",2017,4.47
-"Congo, Rep.",2017,20.56
-Colombia,2017,8.87
-Comoros,2017,8.09
-Cabo Verde,2017,12.24
-Costa Rica,2017,8.14
-Cuba,2017,1.7
-Cyprus,2017,11.05
-Czech Republic,2017,2.89
-Germany,2017,3.75
-Djibouti,2017,26.06
-Denmark,2017,5.83
-Dominican Republic,2017,5.83
-Algeria,2017,10.33
-Ecuador,2017,3.84
-"Egypt, Arab Rep.",2017,11.74
-Eritrea,2017,5.94
-Spain,2017,17.22
-Estonia,2017,5.76
-Ethiopia,2017,2.3
-Finland,2017,8.64
-Fiji,2017,4.28
-France,2017,9.41
-Gabon,2017,20.72
-United Kingdom,2017,4.33
-Georgia,2017,13.94
-Ghana,2017,4.22
-Guinea,2017,4.91
-Gambia,2017,9.48
-Guinea-Bissau,2017,5.99
-Equatorial Guinea,2017,8.65
-Greece,2017,21.49
-Guatemala,2017,2.46
-Guam,2017,5.43
-Guyana,2017,13.75
-"Hong Kong SAR, China",2017,3.13
-Honduras,2017,5.53
-Croatia,2017,11.21
-Haiti,2017,13.88
-Hungary,2017,4.16
-Indonesia,2017,3.88
-India,2017,5.36
-Ireland,2017,6.71
-"Iran, Islamic Rep.",2017,12.23
-Iraq,2017,13.02
-Iceland,2017,2.74
-Israel,2017,4.22
-Italy,2017,11.21
-Jamaica,2017,11.63
-Jordan,2017,18.14
-Japan,2017,2.8
-Kazakhstan,2017,4.9
-Kenya,2017,3.51
-Kyrgyz Republic,2017,6.89
-Cambodia,2017,0.14
-"Korea, Rep.",2017,3.65
-Kuwait,2017,2.2
-Lebanon,2017,10.27
-Liberia,2017,3.05
-Libya,2017,19.37
-St. Lucia,2017,18.86
-Sri Lanka,2017,4.05
-Lesotho,2017,23.2
-Lithuania,2017,7.07
-Luxembourg,2017,5.52
-Latvia,2017,8.72
-"Macao SAR, China",2017,1.99
-Morocco,2017,9.24
-Moldova,2017,4.1
-Madagascar,2017,1.82
-Maldives,2017,5.87
-Mexico,2017,3.42
-North Macedonia,2017,22.38
-Mali,2017,7.41
-Malta,2017,4
-Myanmar,2017,1.56
-Montenegro,2017,16.07
-Mongolia,2017,6.36
-Mozambique,2017,3.45
-Mauritania,2017,10.34
-Mauritius,2017,6.75
-Malawi,2017,5.76
-Malaysia,2017,3.41
-North America,2017,4.58
-Namibia,2017,21.64
-New Caledonia,2017,14.78
-Niger,2017,0.54
-Nigeria,2017,8.39
-Nicaragua,2017,3.3
-Netherlands,2017,4.84
-Norway,2017,4.16
-Nepal,2017,3.32
-New Zealand,2017,4.74
-Oman,2017,2.57
-Pakistan,2017,3.92
-Panama,2017,3.86
-Peru,2017,3.69
-Philippines,2017,2.55
-Papua New Guinea,2017,2.51
-Poland,2017,4.89
-Puerto Rico,2017,10.8
-"Korea, Dem. People's Rep.",2017,2.7
-Portugal,2017,8.87
-Paraguay,2017,4.61
-West Bank and Gaza,2017,25.68
-French Polynesia,2017,12.21
-Qatar,2017,0.14
-Romania,2017,4.93
-Russian Federation,2017,5.21
-Rwanda,2017,1.14
-South Asia,2017,5.12
-Saudi Arabia,2017,5.89
-Sudan,2017,17.53
-Senegal,2017,3.69
-Singapore,2017,4.2
-Solomon Islands,2017,0.71
-Sierra Leone,2017,4.66
-El Salvador,2017,4.39
-Somalia,2017,18.88
-Serbia,2017,13.48
-South Sudan,2017,12.25
-Sao Tome and Principe,2017,13.97
-Suriname,2017,7.9
-Slovak Republic,2017,8.13
-Slovenia,2017,6.56
-Sweden,2017,6.72
-Eswatini,2017,22.75
-Syrian Arab Republic,2017,8.75
-Chad,2017,1.12
-Togo,2017,3.74
-Thailand,2017,0.83
-Tajikistan,2017,6.95
-Turkmenistan,2017,4.2
-Timor-Leste,2017,4.76
-Tonga,2017,2.82
-Trinidad and Tobago,2017,3.28
-Tunisia,2017,15.33
-Turkiye,2017,10.82
-Tanzania,2017,2.18
-Uganda,2017,1.93
-Ukraine,2017,9.5
-Uruguay,2017,7.89
-United States,2017,4.36
-Uzbekistan,2017,5.8
-St. Vincent and the Grenadines,2017,19.18
-"Venezuela, RB",2017,5.05
-Virgin Islands (U.S.),2017,12.32
-Vietnam,2017,1.87
-Vanuatu,2017,1.75
-Samoa,2017,8.58
-"Yemen, Rep.",2017,13.3
-South Africa,2017,27.04
-Zambia,2017,11.63
-Zimbabwe,2017,4.78
-Afghanistan,2018,11.15
-Angola,2018,7.42
-Albania,2018,12.3
-United Arab Emirates,2018,2.35
-Argentina,2018,9.22
-Armenia,2018,18.97
-Australia,2018,5.3
-Austria,2018,4.85
-Azerbaijan,2018,4.9
-Burundi,2018,1.59
-Belgium,2018,5.95
-Benin,2018,1.47
-Burkina Faso,2018,4.69
-Bangladesh,2018,4.41
-Bulgaria,2018,5.21
-Bahrain,2018,1.2
-Bahamas,2018,10
-Bosnia and Herzegovina,2018,18.4
-Belarus,2018,4.76
-Belize,2018,6.64
-Bolivia,2018,3.52
-Brazil,2018,12.33
-Barbados,2018,8.32
-Brunei Darussalam,2018,8.7
-Bhutan,2018,2.44
-Botswana,2018,22.07
-Central African Republic,2018,5.61
-Canada,2018,5.83
-Switzerland,2018,4.71
-Channel Islands,2018,6.57
-Chile,2018,7.23
-China,2018,4.28
-Cote d'Ivoire,2018,3.29
-Cameroon,2018,3.62
-"Congo, Dem. Rep.",2018,4.45
-"Congo, Rep.",2018,20.61
-Colombia,2018,9.11
-Comoros,2018,8.08
-Cabo Verde,2018,12.17
-Costa Rica,2018,9.63
-Cuba,2018,1.7
-Cyprus,2018,8.37
-Czech Republic,2018,2.24
-Germany,2018,3.38
-Djibouti,2018,26.19
-Denmark,2018,5.13
-Dominican Republic,2018,5.86
-Algeria,2018,10.42
-Ecuador,2018,3.53
-"Egypt, Arab Rep.",2018,9.82
-Eritrea,2018,5.95
-Spain,2018,15.25
-Estonia,2018,5.37
-Ethiopia,2018,2.32
-Finland,2018,7.36
-Fiji,2018,4.33
-France,2018,9.02
-Gabon,2018,20.75
-United Kingdom,2018,4
-Georgia,2018,12.67
-Ghana,2018,4.28
-Guinea,2018,4.98
-Gambia,2018,9.48
-Guinea-Bissau,2018,5.98
-Equatorial Guinea,2018,8.62
-Greece,2018,19.29
-Guatemala,2018,2.28
-Guam,2018,5.56
-Guyana,2018,14.02
-"Hong Kong SAR, China",2018,2.82
-Honduras,2018,5.65
-Croatia,2018,8.43
-Haiti,2018,13.86
-Hungary,2018,3.71
-Indonesia,2018,4.4
-India,2018,5.33
-Ireland,2018,5.74
-"Iran, Islamic Rep.",2018,12.19
-Iraq,2018,12.97
-Iceland,2018,2.7
-Israel,2018,4
-Italy,2018,10.61
-Jamaica,2018,9.1
-Jordan,2018,18.27
-Japan,2018,2.4
-Kazakhstan,2018,4.85
-Kenya,2018,4.25
-Kyrgyz Republic,2018,6.89
-Cambodia,2018,0.14
-"Korea, Rep.",2018,3.82
-Kuwait,2018,2.16
-Lebanon,2018,10.8
-Liberia,2018,3.03
-Libya,2018,19.45
-St. Lucia,2018,19.08
-Sri Lanka,2018,4.32
-Lesotho,2018,22.81
-Lithuania,2018,6.15
-Luxembourg,2018,5.59
-Latvia,2018,7.41
-"Macao SAR, China",2018,1.83
-Morocco,2018,9.27
-Moldova,2018,4.11
-Madagascar,2018,1.84
-Maldives,2018,5.62
-Mexico,2018,3.28
-North Macedonia,2018,20.74
-Mali,2018,7.43
-Malta,2018,3.66
-Myanmar,2018,0.87
-Montenegro,2018,15.17
-Mongolia,2018,5.38
-Mozambique,2018,3.46
-Mauritania,2018,10.39
-Mauritius,2018,6.43
-Malawi,2018,5.76
-Malaysia,2018,3.3
-North America,2018,4.11
-Namibia,2018,19.88
-New Caledonia,2018,14.85
-Niger,2018,0.55
-Nigeria,2018,8.46
-Nicaragua,2018,5.2
-Netherlands,2018,3.83
-Norway,2018,3.8
-Nepal,2018,3.19
-New Zealand,2018,4.33
-Oman,2018,1.8
-Pakistan,2018,4.08
-Panama,2018,3.83
-Peru,2018,3.49
-Philippines,2018,2.34
-Papua New Guinea,2018,2.56
-Poland,2018,3.85
-Puerto Rico,2018,9.2
-"Korea, Dem. People's Rep.",2018,2.63
-Portugal,2018,6.99
-Paraguay,2018,6.22
-West Bank and Gaza,2018,26.26
-French Polynesia,2018,12.25
-Qatar,2018,0.11
-Romania,2018,4.19
-Russian Federation,2018,4.85
-Rwanda,2018,1.11
-South Asia,2018,5.12
-Saudi Arabia,2018,6.04
-Sudan,2018,17.58
-Senegal,2018,3.28
-Singapore,2018,3.64
-Solomon Islands,2018,0.72
-Sierra Leone,2018,4.66
-El Salvador,2018,4.01
-Somalia,2018,18.85
-Serbia,2018,12.73
-South Sudan,2018,12.24
-Sao Tome and Principe,2018,14.06
-Suriname,2018,7.93
-Slovak Republic,2018,6.54
-Slovenia,2018,5.11
-Sweden,2018,6.36
-Eswatini,2018,22.79
-Syrian Arab Republic,2018,8.76
-Chad,2018,1.13
-Togo,2018,3.73
-Thailand,2018,0.77
-Tajikistan,2018,7.01
-Turkmenistan,2018,4.23
-Timor-Leste,2018,4.73
-Tonga,2018,3.07
-Trinidad and Tobago,2018,3.34
-Tunisia,2018,15.46
-Turkiye,2018,10.89
-Tanzania,2018,2.21
-Uganda,2018,1.92
-Ukraine,2018,8.8
-Uruguay,2018,8.34
-United States,2018,3.9
-Uzbekistan,2018,5.84
-St. Vincent and the Grenadines,2018,19.18
-"Venezuela, RB",2018,5.02
-Virgin Islands (U.S.),2018,12.43
-Vietnam,2018,1.16
-Vanuatu,2018,1.81
-Samoa,2018,8.69
-"Yemen, Rep.",2018,13.15
-South Africa,2018,26.91
-Zambia,2018,12.01
-Zimbabwe,2018,4.8
-Afghanistan,2019,11.22
-Angola,2019,7.42
-Albania,2019,11.47
-United Arab Emirates,2019,2.23
-Argentina,2019,9.84
-Armenia,2019,18.3
-Australia,2019,5.16
-Austria,2019,4.49
-Azerbaijan,2019,4.85
-Burundi,2019,1.59
-Belgium,2019,5.36
-Benin,2019,1.47
-Burkina Faso,2019,4.69
-Bangladesh,2019,4.44
-Bulgaria,2019,4.23
-Bahrain,2019,1.2
-Bahamas,2019,10.06
-Bosnia and Herzegovina,2019,15.69
-Belarus,2019,4.16
-Belize,2019,6.71
-Bolivia,2019,3.82
-Brazil,2019,11.93
-Barbados,2019,8.41
-Brunei Darussalam,2019,6.92
-Bhutan,2019,2.5
-Botswana,2019,22.61
-Central African Republic,2019,5.62
-Canada,2019,5.66
-Switzerland,2019,4.39
-Channel Islands,2019,6.41
-Chile,2019,7.29
-China,2019,4.52
-Cote d'Ivoire,2019,3.32
-Cameroon,2019,3.64
-"Congo, Dem. Rep.",2019,4.45
-"Congo, Rep.",2019,20.62
-Colombia,2019,9.96
-Comoros,2019,8.08
-Cabo Verde,2019,12.22
-Costa Rica,2019,11.49
-Cuba,2019,1.74
-Cyprus,2019,7.07
-Czech Republic,2019,2.01
-Germany,2019,3.14
-Djibouti,2019,26.36
-Denmark,2019,5.02
-Dominican Republic,2019,6.36
-Algeria,2019,10.51
-Ecuador,2019,3.81
-"Egypt, Arab Rep.",2019,7.84
-Eritrea,2019,5.99
-Spain,2019,14.1
-Estonia,2019,4.45
-Ethiopia,2019,2.33
-Finland,2019,6.69
-Fiji,2019,4.45
-France,2019,8.41
-Gabon,2019,20.74
-United Kingdom,2019,3.74
-Georgia,2019,11.57
-Ghana,2019,4.32
-Guinea,2019,5.02
-Gambia,2019,9.5
-Guinea-Bissau,2019,6.04
-Equatorial Guinea,2019,8.68
-Greece,2019,17.31
-Guatemala,2019,2.19
-Guam,2019,5.51
-Guyana,2019,13.99
-"Hong Kong SAR, China",2019,2.93
-Honduras,2019,5.7
-Croatia,2019,6.62
-Haiti,2019,13.91
-Hungary,2019,3.42
-Indonesia,2019,3.62
-India,2019,5.27
-Ireland,2019,4.95
-"Iran, Islamic Rep.",2019,10.74
-Iraq,2019,12.86
-Iceland,2019,3.51
-Israel,2019,3.8
-Italy,2019,9.95
-Jamaica,2019,7.69
-Jordan,2019,16.81
-Japan,2019,2.4
-Kazakhstan,2019,4.8
-Kenya,2019,5.01
-Kyrgyz Republic,2019,6.92
-Cambodia,2019,0.15
-"Korea, Rep.",2019,3.75
-Kuwait,2019,2.17
-Lebanon,2019,11.35
-Liberia,2019,3.02
-Libya,2019,19.66
-St. Lucia,2019,15.32
-Sri Lanka,2019,4.35
-Lesotho,2019,22.44
-Lithuania,2019,6.26
-Luxembourg,2019,5.59
-Latvia,2019,6.31
-"Macao SAR, China",2019,1.75
-Morocco,2019,9.28
-Moldova,2019,5.1
-Madagascar,2019,1.86
-Maldives,2019,5.34
-Mexico,2019,3.48
-North Macedonia,2019,17.26
-Mali,2019,7.44
-Malta,2019,3.62
-Myanmar,2019,0.5
-Montenegro,2019,15.12
-Mongolia,2019,5.44
-Mozambique,2019,3.47
-Mauritania,2019,10.39
-Mauritius,2019,6.33
-Malawi,2019,5.75
-Malaysia,2019,3.26
-North America,2019,3.89
-Namibia,2019,19.99
-New Caledonia,2019,14.91
-Niger,2019,0.55
-Nigeria,2019,8.53
-Nicaragua,2019,5.21
-Netherlands,2019,3.38
-Norway,2019,3.69
-Nepal,2019,3.1
-New Zealand,2019,4.11
-Oman,2019,1.85
-Pakistan,2019,3.54
-Panama,2019,4.73
-Peru,2019,3.38
-Philippines,2019,2.24
-Papua New Guinea,2019,2.45
-Poland,2019,3.28
-Puerto Rico,2019,8.3
-"Korea, Dem. People's Rep.",2019,2.59
-Portugal,2019,6.46
-Paraguay,2019,6.59
-West Bank and Gaza,2019,25.34
-French Polynesia,2019,12.3
-Qatar,2019,0.1
-Romania,2019,3.91
-Russian Federation,2019,4.5
-Rwanda,2019,1.1
-South Asia,2019,5.02
-Saudi Arabia,2019,5.67
-Sudan,2019,17.65
-Senegal,2019,2.86
-Singapore,2019,3.1
-Solomon Islands,2019,0.75
-Sierra Leone,2019,4.65
-El Salvador,2019,4.17
-Somalia,2019,18.83
-Serbia,2019,10.39
-South Sudan,2019,12.23
-Sao Tome and Principe,2019,14.14
-Suriname,2019,8.04
-Slovak Republic,2019,5.75
-Slovenia,2019,4.45
-Sweden,2019,6.83
-Eswatini,2019,22.84
-Syrian Arab Republic,2019,8.77
-Chad,2019,1.12
-Togo,2019,3.72
-Thailand,2019,0.72
-Tajikistan,2019,7.06
-Turkmenistan,2019,4.27
-Timor-Leste,2019,4.51
-Tonga,2019,3.06
-Trinidad and Tobago,2019,3.42
-Tunisia,2019,15.13
-Turkiye,2019,13.67
-Tanzania,2019,2.22
-Uganda,2019,1.92
-Ukraine,2019,8.19
-Uruguay,2019,8.88
-United States,2019,3.67
-Uzbekistan,2019,5.85
-St. Vincent and the Grenadines,2019,19.28
-"Venezuela, RB",2019,5.1
-Virgin Islands (U.S.),2019,12.47
-Vietnam,2019,2.04
-Vanuatu,2019,1.8
-Samoa,2019,8.41
-"Yemen, Rep.",2019,13.06
-South Africa,2019,28.47
-Zambia,2019,12.52
-Zimbabwe,2019,4.83
-Afghanistan,2020,11.71
-Angola,2020,8.33
-Albania,2020,13.33
-United Arab Emirates,2020,3.19
-Argentina,2020,11.46
-Armenia,2020,21.21
-Australia,2020,6.46
-Austria,2020,5.36
-Azerbaijan,2020,6.46
-Burundi,2020,1.71
-Belgium,2020,5.55
-Benin,2020,1.58
-Burkina Faso,2020,4.89
-Bangladesh,2020,5.41
-Bulgaria,2020,5.12
-Bahrain,2020,1.78
-Bahamas,2020,13.32
-Bosnia and Herzegovina,2020,15.27
-Belarus,2020,4.77
-Belize,2020,8.46
-Bolivia,2020,7.9
-Brazil,2020,13.69
-Barbados,2020,10.38
-Brunei Darussalam,2020,7.68
-Bhutan,2020,3.65
-Botswana,2020,24.93
-Central African Republic,2020,6.36
-Canada,2020,9.46
-Switzerland,2020,4.82
-Channel Islands,2020,7.69
-Chile,2020,11.18
-China,2020,5
-Cote d'Ivoire,2020,3.49
-Cameroon,2020,3.84
-"Congo, Dem. Rep.",2020,5.27
-"Congo, Rep.",2020,22.84
-Colombia,2020,15.04
-Comoros,2020,9.22
-Cabo Verde,2020,15.31
-Costa Rica,2020,17.41
-Cuba,2020,2.62
-Cyprus,2020,7.59
-Czech Republic,2020,2.55
-Germany,2020,3.81
-Djibouti,2020,28.39
-Denmark,2020,5.64
-Dominican Republic,2020,6.13
-Algeria,2020,12.55
-Ecuador,2020,6.11
-"Egypt, Arab Rep.",2020,9.17
-Eritrea,2020,7.86
-Spain,2020,15.53
-Estonia,2020,6.8
-Ethiopia,2020,3.24
-Finland,2020,7.76
-Fiji,2020,4.72
-France,2020,8.01
-Gabon,2020,21.97
-United Kingdom,2020,4.47
-Georgia,2020,18.5
-Ghana,2020,4.65
-Guinea,2020,6.1
-Gambia,2020,11.08
-Guinea-Bissau,2020,6.74
-Equatorial Guinea,2020,9.9
-Greece,2020,16.3
-Guatemala,2020,3.55
-Guam,2020,6.8
-Guyana,2020,16.43
-"Hong Kong SAR, China",2020,5.83
-Honduras,2020,8.37
-Croatia,2020,7.51
-Haiti,2020,15.45
-Hungary,2020,4.25
-Indonesia,2020,4.28
-India,2020,8
-Ireland,2020,5.62
-"Iran, Islamic Rep.",2020,12.17
-Iraq,2020,14.09
-Iceland,2020,5.48
-Israel,2020,4.33
-Italy,2020,9.16
-Jamaica,2020,9.48
-Jordan,2020,19.03
-Japan,2020,2.8
-Kazakhstan,2020,4.89
-Kenya,2020,5.73
-Kyrgyz Republic,2020,8.71
-Cambodia,2020,0.33
-"Korea, Rep.",2020,3.93
-Kuwait,2020,3.54
-Lebanon,2020,13.3
-Liberia,2020,3.98
-Libya,2020,20.07
-St. Lucia,2020,16.89
-Sri Lanka,2020,5.88
-Lesotho,2020,24.56
-Lithuania,2020,8.49
-Luxembourg,2020,6.77
-Latvia,2020,8.1
-"Macao SAR, China",2020,2.57
-Morocco,2020,11.45
-Moldova,2020,3.82
-Madagascar,2020,2.47
-Maldives,2020,6.33
-Mexico,2020,4.45
-North Macedonia,2020,17.2
-Mali,2020,7.7
-Malta,2020,4.26
-Myanmar,2020,1.06
-Montenegro,2020,17.9
-Mongolia,2020,7.01
-Mozambique,2020,3.81
-Mauritania,2020,11.27
-Mauritius,2020,7.41
-Malawi,2020,6.7
-Malaysia,2020,4.5
-North America,2020,8.21
-Namibia,2020,21.45
-New Caledonia,2020,16.43
-Niger,2020,0.62
-Nigeria,2020,9.71
-Nicaragua,2020,6.08
-Netherlands,2020,3.82
-Norway,2020,4.42
-Nepal,2020,4.72
-New Zealand,2020,4.59
-Oman,2020,2.94
-Pakistan,2020,4.3
-Panama,2020,12.85
-Peru,2020,7.18
-Philippines,2020,2.52
-Papua New Guinea,2020,2.6
-Poland,2020,3.16
-Puerto Rico,2020,8.89
-"Korea, Dem. People's Rep.",2020,2.92
-Portugal,2020,6.79
-Paraguay,2020,7.55
-West Bank and Gaza,2020,25.89
-French Polynesia,2020,14.1
-Qatar,2020,0.21
-Romania,2020,5.03
-Russian Federation,2020,5.59
-Rwanda,2020,1.49
-South Asia,2020,7.24
-Saudi Arabia,2020,7.45
-Sudan,2020,19.65
-Senegal,2020,3.62
-Singapore,2020,4.1
-Solomon Islands,2020,0.92
-Sierra Leone,2020,5.2
-El Salvador,2020,6.25
-Somalia,2020,19.72
-Serbia,2020,9.01
-South Sudan,2020,14.03
-Sao Tome and Principe,2020,15.75
-Suriname,2020,9.78
-Slovak Republic,2020,6.69
-Slovenia,2020,4.97
-Sweden,2020,8.29
-Eswatini,2020,25.51
-Syrian Arab Republic,2020,10.26
-Chad,2020,1.74
-Togo,2020,3.94
-Thailand,2020,1.1
-Tajikistan,2020,7.58
-Turkmenistan,2020,4.95
-Timor-Leste,2020,4.91
-Tonga,2020,3.63
-Trinidad and Tobago,2020,4.57
-Tunisia,2020,16.59
-Turkiye,2020,13.11
-Tanzania,2020,2.53
-Uganda,2020,2.77
-Ukraine,2020,9.13
-Uruguay,2020,10.35
-United States,2020,8.05
-Uzbekistan,2020,7.04
-St. Vincent and the Grenadines,2020,21
-"Venezuela, RB",2020,6.63
-Virgin Islands (U.S.),2020,13.55
-Vietnam,2020,2.39
-Vanuatu,2020,2.12
-Samoa,2020,9.15
-"Yemen, Rep.",2020,13.39
-South Africa,2020,29.22
-Zambia,2020,12.85
-Zimbabwe,2020,5.35
+ID,Country,Variable,Value
+0,Afghanistan,2015,11.13
+1,Angola,2015,7.39
+2,Albania,2015,17.19
+3,UAE,2015,1.77
+4,Argentina,2015,7.52
+5,Armenia,2015,18.26
+6,Australia,2015,6.05
+7,Austria,2015,5.72
+8,Azerbaijan,2015,4.96
+9,Burundi,2015,1.6
+10,Belgium,2015,8.48
+11,Benin,2015,2.01
+12,Burkina Faso,2015,4.32
+13,Bangladesh,2015,4.37
+14,Bulgaria,2015,9.14
+15,Bahrain,2015,1.2
+16,Bahamas,2015,12
+17,Bosnia and Herzegovina,2015,27.69
+18,Belarus,2015,5.84
+19,Belize,2015,7.58
+20,Bolivia,2015,3.11
+21,Brazil,2015,8.43
+22,Barbados,2015,9.8
+23,Brunei Darussalam,2015,7.78
+24,Bhutan,2015,2.45
+25,Botswana,2015,20.57
+26,Central African Republic,2015,5.61
+27,Canada,2015,6.91
+28,Switzerland,2015,4.8
+29,Channel Islands,2015,8.22
+30,Chile,2015,6.51
+31,China,2015,4.63
+32,Cote d'Ivoire,2015,3.15
+33,Cameroon,2015,3.55
+34,Dem. Rep of Congo,2015,4.47
+35,Rep. of Congo,2015,20.45
+36,Colombia,2015,8.3
+37,Comoros,2015,8.14
+38,Cabo Verde,2015,11.8
+39,Costa Rica,2015,9
+40,Cuba,2015,2.4
+41,Cyprus,2015,14.91
+42,Czech Rep.,2015,5.05
+43,Germany,2015,4.62
+44,Djibouti,2015,26.33
+45,Denmark,2015,6.28
+46,Dominican Rep,2015,7.61
+47,Algeria,2015,11.21
+48,Ecuador,2015,3.62
+49,Egypt,2015,13.05
+50,Eritrea,2015,5.83
+51,Spain,2015,22.06
+52,Estonia,2015,6.19
+53,Ethiopia,2015,2.27
+54,Finland,2015,9.38
+55,Fiji,2015,4.3
+56,France,2015,10.35
+57,Gabon,2015,20.61
+58,United Kingdom,2015,5.3
+59,Georgia,2015,16.51
+60,Ghana,2015,6.81
+61,Guinea,2015,4.92
+62,Gambia,2015,9.47
+63,Guinea-Bissau,2015,5.87
+64,Equatorial Guinea,2015,8.54
+65,Greece,2015,24.9
+66,Guatemala,2015,2.51
+67,Guam,2015,6.9
+68,Guyana,2015,13.21
+69,Hong Kong ,2015,3.31
+70,Honduras,2015,6.15
+71,Croatia,2015,16.18
+72,Haiti,2015,13.96
+73,Hungary,2015,6.81
+74,Indonesia,2015,4.51
+75,India,2015,5.43
+76,Ireland,2015,9.91
+77,Iran,2015,11.17
+78,Iraq,2015,10.73
+79,Iceland,2015,3.98
+80,Israel,2015,5.25
+81,Italy,2015,11.9
+82,Jamaica,2015,13.51
+83,Jordan,2015,13.08
+84,Japan,2015,3.4
+85,Kazakhstan,2015,4.93
+86,Kenya,2015,2.78
+87,Kyrgyz Rep.,2015,7.56
+88,Cambodia,2015,0.39
+89,South Korea,2015,3.55
+90,Kuwait,2015,2.2
+91,Lebanon,2015,9.32
+92,Liberia,2015,2.08
+93,Libya,2015,19.53
+94,St. Lucia,2015,20.56
+95,Sri Lanka,2015,4.52
+96,Lesotho,2015,23.84
+97,Lithuania,2015,9.12
+98,Luxembourg,2015,6.67
+99,Latvia,2015,9.87
+100,Macao ,2015,1.81
+101,Morocco,2015,9.46
+102,Moldova,2015,4.7
+103,Madagascar,2015,1.79
+104,Maldives,2015,6.93
+105,Mexico,2015,4.31
+106,North Macedonia,2015,26.07
+107,Mali,2015,7.73
+108,Malta,2015,5.38
+109,Myanmar,2015,0.77
+110,Montenegro,2015,17.54
+111,Mongolia,2015,4.86
+112,Mozambique,2015,3.43
+113,Mauritania,2015,10.14
+114,Mauritius,2015,7.41
+115,Malawi,2015,5.86
+116,Malaysia,2015,3.1
+117,Namibia,2015,20.91
+118,New Caledonia,2015,14.73
+119,Niger,2015,0.53
+120,Nigeria,2015,4.31
+121,Nicaragua,2015,4.7
+122,Netherlands,2015,6.87
+123,Norway,2015,4.3
+124,Nepal,2015,3.1
+125,New Zealand,2015,5.41
+126,Oman,2015,3.39
+127,Pakistan,2015,3.57
+128,Panama,2015,2.98
+129,Peru,2015,3.27
+130,Philippines,2015,3.07
+131,Papua New Guinea,2015,2.48
+132,Poland,2015,7.5
+133,Puerto Rico,2015,12
+134,North Korea,2015,2.74
+135,Portugal,2015,12.44
+136,Paraguay,2015,4.56
+137,West Bank and Gaza,2015,23
+138,French Polynesia,2015,12.17
+139,Qatar,2015,0.17
+140,Romania,2015,6.81
+141,Russia,2015,5.57
+142,Rwanda,2015,1.15
+143,Saudi Arabia,2015,5.59
+144,Sudan,2015,17.49
+145,Senegal,2015,6.76
+146,Singapore,2015,3.79
+147,Solomon Islands,2015,0.73
+148,Sierra Leone,2015,4.74
+149,El Salvador,2015,4
+150,Somalia,2015,18.9
+151,Serbia,2015,17.66
+152,South Sudan,2015,12.27
+153,Sao Tome and Principe,2015,13.82
+154,Suriname,2015,7.22
+155,Slovak Rep.,2015,11.48
+156,Slovenia,2015,8.96
+157,Sweden,2015,7.43
+158,Eswatini,2015,23.33
+159,Syria,2015,8.71
+160,Chad,2015,1.07
+161,Togo,2015,2.2
+162,Thailand,2015,0.6
+163,Tajikistan,2015,7.55
+164,Turkmenistan,2015,4.14
+165,Timor-Leste,2015,4.45
+166,Tonga,2015,2.55
+167,Trinidad and Tobago,2015,2.43
+168,Tunisia,2015,15.16
+169,Turkiye,2015,10.24
+170,Tanzania,2015,2.14
+171,Uganda,2015,1.91
+172,Ukraine,2015,9.14
+173,Uruguay,2015,7.49
+174,USA,2015,5.28
+175,Uzbekistan,2015,5.2
+176,St. Vincent and the Grenadines,2015,19.09
+177,Venezuela,2015,6.08
+178,Virgin Islands ,2015,12.62
+179,Vietnam,2015,1.85
+180,Vanuatu,2015,1.86
+181,Samoa,2015,8.5
+182,Yemen,2015,13.77
+183,South Africa,2015,25.15
+184,Zambia,2015,10.13
+185,Zimbabwe,2015,4.78
+186,Afghanistan,2016,11.16
+187,Angola,2016,7.41
+188,Albania,2016,15.42
+189,UAE,2016,1.64
+190,Argentina,2016,8.11
+191,Armenia,2016,17.62
+192,Australia,2016,5.71
+193,Austria,2016,6.01
+194,Azerbaijan,2016,5
+195,Burundi,2016,1.59
+196,Belgium,2016,7.83
+197,Benin,2016,1.83
+198,Burkina Faso,2016,4.43
+199,Bangladesh,2016,4.35
+200,Bulgaria,2016,7.57
+201,Bahrain,2016,1.19
+202,Bahamas,2016,12.7
+203,Bosnia and Herzegovina,2016,25.41
+204,Belarus,2016,5.84
+205,Belize,2016,7
+206,Bolivia,2016,3.5
+207,Brazil,2016,11.6
+208,Barbados,2016,8.25
+209,Brunei Darussalam,2016,8.38
+210,Bhutan,2016,2.49
+211,Botswana,2016,21.03
+212,Central African Republic,2016,5.65
+213,Canada,2016,7
+214,Switzerland,2016,4.92
+215,Channel Islands,2016,7.74
+216,Chile,2016,6.74
+217,China,2016,4.53
+218,Cote d'Ivoire,2016,2.6
+219,Cameroon,2016,3.58
+220,Dem. Rep of Congo,2016,4.48
+221,Rep. of Congo,2016,20.56
+222,Colombia,2016,8.69
+223,Comoros,2016,8.1
+224,Cabo Verde,2016,12.01
+225,Costa Rica,2016,8.6
+226,Cuba,2016,2
+227,Cyprus,2016,12.95
+228,Czech Rep.,2016,3.95
+229,Germany,2016,4.12
+230,Djibouti,2016,26.19
+231,Denmark,2016,5.99
+232,Dominican Rep,2016,7.28
+233,Algeria,2016,10.2
+234,Ecuador,2016,4.6
+235,Egypt,2016,12.41
+236,Eritrea,2016,5.9
+237,Spain,2016,19.63
+238,Estonia,2016,6.76
+239,Ethiopia,2016,2.29
+240,Finland,2016,8.82
+241,Fiji,2016,4.32
+242,France,2016,10.05
+243,Gabon,2016,20.67
+244,United Kingdom,2016,4.81
+245,Georgia,2016,16.6
+246,Ghana,2016,5.53
+247,Guinea,2016,4.88
+248,Gambia,2016,9.5
+249,Guinea-Bissau,2016,5.95
+250,Equatorial Guinea,2016,8.63
+251,Greece,2016,23.54
+252,Guatemala,2016,2.58
+253,Guam,2016,5.4
+254,Guyana,2016,13.46
+255,Hong Kong ,2016,3.39
+256,Honduras,2016,6.73
+257,Croatia,2016,13.1
+258,Haiti,2016,13.93
+259,Hungary,2016,5.11
+260,Indonesia,2016,4.3
+261,India,2016,5.42
+262,Ireland,2016,8.37
+263,Iran,2016,12.62
+264,Iraq,2016,10.82
+265,Iceland,2016,2.98
+266,Israel,2016,4.8
+267,Italy,2016,11.69
+268,Jamaica,2016,13.19
+269,Jordan,2016,15.28
+270,Japan,2016,3.1
+271,Kazakhstan,2016,4.96
+272,Kenya,2016,2.76
+273,Kyrgyz Rep.,2016,7.21
+274,Cambodia,2016,0.72
+275,South Korea,2016,3.65
+276,Kuwait,2016,2.16
+277,Lebanon,2016,9.78
+278,Liberia,2016,3.08
+279,Libya,2016,19.53
+280,St. Lucia,2016,19.65
+281,Sri Lanka,2016,4.24
+282,Lesotho,2016,23.48
+283,Lithuania,2016,7.86
+284,Luxembourg,2016,6.29
+285,Latvia,2016,9.64
+286,Macao ,2016,1.94
+287,Morocco,2016,9.3
+288,Moldova,2016,4.02
+289,Madagascar,2016,1.8
+290,Maldives,2016,6.12
+291,Mexico,2016,3.86
+292,North Macedonia,2016,23.72
+293,Mali,2016,7.57
+294,Malta,2016,4.69
+295,Myanmar,2016,1.18
+296,Montenegro,2016,17.72
+297,Mongolia,2016,7.24
+298,Mozambique,2016,3.45
+299,Mauritania,2016,10.26
+300,Mauritius,2016,6.81
+301,Malawi,2016,5.82
+302,Malaysia,2016,3.44
+303,Namibia,2016,23.35
+304,New Caledonia,2016,14.69
+305,Niger,2016,0.53
+306,Nigeria,2016,7.06
+307,Nicaragua,2016,3.9
+308,Netherlands,2016,6.01
+309,Norway,2016,4.68
+310,Nepal,2016,2.87
+311,New Zealand,2016,5.15
+312,Oman,2016,3.27
+313,Pakistan,2016,3.78
+314,Panama,2016,3.26
+315,Peru,2016,3.74
+316,Philippines,2016,2.7
+317,Papua New Guinea,2016,2.48
+318,Poland,2016,6.16
+319,Puerto Rico,2016,11.8
+320,North Korea,2016,2.76
+321,Portugal,2016,11.07
+322,Paraguay,2016,5.25
+323,West Bank and Gaza,2016,23.94
+324,French Polynesia,2016,12.18
+325,Qatar,2016,0.15
+326,Romania,2016,5.9
+327,Russia,2016,5.56
+328,Rwanda,2016,1.14
+329,Saudi Arabia,2016,5.65
+330,Sudan,2016,17.52
+331,Senegal,2016,4.46
+332,Singapore,2016,4.08
+333,Solomon Islands,2016,0.7
+334,Sierra Leone,2016,4.66
+335,El Salvador,2016,4.42
+336,Somalia,2016,18.89
+337,Serbia,2016,15.26
+338,South Sudan,2016,12.3
+339,Sao Tome and Principe,2016,13.89
+340,Suriname,2016,7.92
+341,Slovak Rep.,2016,9.67
+342,Slovenia,2016,8
+343,Sweden,2016,6.99
+344,Eswatini,2016,22.72
+345,Syria,2016,8.73
+346,Chad,2016,1.1
+347,Togo,2016,2.97
+348,Thailand,2016,0.69
+349,Tajikistan,2016,6.9
+350,Turkmenistan,2016,4.17
+351,Timor-Leste,2016,4.66
+352,Tonga,2016,2.57
+353,Trinidad and Tobago,2016,3.21
+354,Tunisia,2016,15.56
+355,Turkiye,2016,10.84
+356,Tanzania,2016,2.16
+357,Uganda,2016,1.92
+358,Ukraine,2016,9.35
+359,Uruguay,2016,7.84
+360,USA,2016,4.87
+361,Uzbekistan,2016,5.2
+362,St. Vincent and the Grenadines,2016,19.11
+363,Venezuela,2016,5.32
+364,Virgin Islands ,2016,12.68
+365,Vietnam,2016,1.85
+366,Vanuatu,2016,1.78
+367,Samoa,2016,8.31
+368,Yemen,2016,13.43
+369,South Africa,2016,26.54
+370,Zambia,2016,10.87
+371,Zimbabwe,2016,4.79
+372,Afghanistan,2017,11.18
+373,Angola,2017,7.41
+374,Albania,2017,13.62
+375,UAE,2017,2.46
+376,Argentina,2017,8.35
+377,Armenia,2017,17.7
+378,Australia,2017,5.59
+379,Austria,2017,5.5
+380,Azerbaijan,2017,5
+381,Burundi,2017,1.59
+382,Belgium,2017,7.09
+383,Benin,2017,1.64
+384,Burkina Faso,2017,4.56
+385,Bangladesh,2017,4.37
+386,Bulgaria,2017,6.16
+387,Bahrain,2017,1.18
+388,Bahamas,2017,9.8
+389,Bosnia and Herzegovina,2017,20.53
+390,Belarus,2017,5.65
+391,Belize,2017,6.6
+392,Bolivia,2017,3.65
+393,Brazil,2017,12.82
+394,Barbados,2017,8.62
+395,Brunei Darussalam,2017,9.32
+396,Bhutan,2017,2.45
+397,Botswana,2017,21.57
+398,Central African Republic,2017,5.65
+399,Canada,2017,6.34
+400,Switzerland,2017,4.8
+401,Channel Islands,2017,7.14
+402,Chile,2017,6.96
+403,China,2017,4.44
+404,Cote d'Ivoire,2017,3.27
+405,Cameroon,2017,3.6
+406,Dem. Rep of Congo,2017,4.47
+407,Rep. of Congo,2017,20.56
+408,Colombia,2017,8.87
+409,Comoros,2017,8.09
+410,Cabo Verde,2017,12.24
+411,Costa Rica,2017,8.14
+412,Cuba,2017,1.7
+413,Cyprus,2017,11.05
+414,Czech Rep.,2017,2.89
+415,Germany,2017,3.75
+416,Djibouti,2017,26.06
+417,Denmark,2017,5.83
+418,Dominican Rep,2017,5.83
+419,Algeria,2017,10.33
+420,Ecuador,2017,3.84
+421,Egypt,2017,11.74
+422,Eritrea,2017,5.94
+423,Spain,2017,17.22
+424,Estonia,2017,5.76
+425,Ethiopia,2017,2.3
+426,Finland,2017,8.64
+427,Fiji,2017,4.28
+428,France,2017,9.41
+429,Gabon,2017,20.72
+430,United Kingdom,2017,4.33
+431,Georgia,2017,13.94
+432,Ghana,2017,4.22
+433,Guinea,2017,4.91
+434,Gambia,2017,9.48
+435,Guinea-Bissau,2017,5.99
+436,Equatorial Guinea,2017,8.65
+437,Greece,2017,21.49
+438,Guatemala,2017,2.46
+439,Guam,2017,5.43
+440,Guyana,2017,13.75
+441,Hong Kong ,2017,3.13
+442,Honduras,2017,5.53
+443,Croatia,2017,11.21
+444,Haiti,2017,13.88
+445,Hungary,2017,4.16
+446,Indonesia,2017,3.88
+447,India,2017,5.36
+448,Ireland,2017,6.71
+449,Iran,2017,12.23
+450,Iraq,2017,13.02
+451,Iceland,2017,2.74
+452,Israel,2017,4.22
+453,Italy,2017,11.21
+454,Jamaica,2017,11.63
+455,Jordan,2017,18.14
+456,Japan,2017,2.8
+457,Kazakhstan,2017,4.9
+458,Kenya,2017,3.51
+459,Kyrgyz Rep.,2017,6.89
+460,Cambodia,2017,0.14
+461,South Korea,2017,3.65
+462,Kuwait,2017,2.2
+463,Lebanon,2017,10.27
+464,Liberia,2017,3.05
+465,Libya,2017,19.37
+466,St. Lucia,2017,18.86
+467,Sri Lanka,2017,4.05
+468,Lesotho,2017,23.2
+469,Lithuania,2017,7.07
+470,Luxembourg,2017,5.52
+471,Latvia,2017,8.72
+472,Macao ,2017,1.99
+473,Morocco,2017,9.24
+474,Moldova,2017,4.1
+475,Madagascar,2017,1.82
+476,Maldives,2017,5.87
+477,Mexico,2017,3.42
+478,North Macedonia,2017,22.38
+479,Mali,2017,7.41
+480,Malta,2017,4
+481,Myanmar,2017,1.56
+482,Montenegro,2017,16.07
+483,Mongolia,2017,6.36
+484,Mozambique,2017,3.45
+485,Mauritania,2017,10.34
+486,Mauritius,2017,6.75
+487,Malawi,2017,5.76
+488,Malaysia,2017,3.41
+489,Namibia,2017,21.64
+490,New Caledonia,2017,14.78
+491,Niger,2017,0.54
+492,Nigeria,2017,8.39
+493,Nicaragua,2017,3.3
+494,Netherlands,2017,4.84
+495,Norway,2017,4.16
+496,Nepal,2017,3.32
+497,New Zealand,2017,4.74
+498,Oman,2017,2.57
+499,Pakistan,2017,3.92
+500,Panama,2017,3.86
+501,Peru,2017,3.69
+502,Philippines,2017,2.55
+503,Papua New Guinea,2017,2.51
+504,Poland,2017,4.89
+505,Puerto Rico,2017,10.8
+506,North Korea,2017,2.7
+507,Portugal,2017,8.87
+508,Paraguay,2017,4.61
+509,West Bank and Gaza,2017,25.68
+510,French Polynesia,2017,12.21
+511,Qatar,2017,0.14
+512,Romania,2017,4.93
+513,Russia,2017,5.21
+514,Rwanda,2017,1.14
+515,Saudi Arabia,2017,5.89
+516,Sudan,2017,17.53
+517,Senegal,2017,3.69
+518,Singapore,2017,4.2
+519,Solomon Islands,2017,0.71
+520,Sierra Leone,2017,4.66
+521,El Salvador,2017,4.39
+522,Somalia,2017,18.88
+523,Serbia,2017,13.48
+524,South Sudan,2017,12.25
+525,Sao Tome and Principe,2017,13.97
+526,Suriname,2017,7.9
+527,Slovak Rep.,2017,8.13
+528,Slovenia,2017,6.56
+529,Sweden,2017,6.72
+530,Eswatini,2017,22.75
+531,Syria,2017,8.75
+532,Chad,2017,1.12
+533,Togo,2017,3.74
+534,Thailand,2017,0.83
+535,Tajikistan,2017,6.95
+536,Turkmenistan,2017,4.2
+537,Timor-Leste,2017,4.76
+538,Tonga,2017,2.82
+539,Trinidad and Tobago,2017,3.28
+540,Tunisia,2017,15.33
+541,Turkiye,2017,10.82
+542,Tanzania,2017,2.18
+543,Uganda,2017,1.93
+544,Ukraine,2017,9.5
+545,Uruguay,2017,7.89
+546,USA,2017,4.36
+547,Uzbekistan,2017,5.8
+548,St. Vincent and the Grenadines,2017,19.18
+549,Venezuela,2017,5.05
+550,Virgin Islands ,2017,12.32
+551,Vietnam,2017,1.87
+552,Vanuatu,2017,1.75
+553,Samoa,2017,8.58
+554,Yemen,2017,13.3
+555,South Africa,2017,27.04
+556,Zambia,2017,11.63
+557,Zimbabwe,2017,4.78
+558,Afghanistan,2018,11.15
+559,Angola,2018,7.42
+560,Albania,2018,12.3
+561,UAE,2018,2.35
+562,Argentina,2018,9.22
+563,Armenia,2018,18.97
+564,Australia,2018,5.3
+565,Austria,2018,4.85
+566,Azerbaijan,2018,4.9
+567,Burundi,2018,1.59
+568,Belgium,2018,5.95
+569,Benin,2018,1.47
+570,Burkina Faso,2018,4.69
+571,Bangladesh,2018,4.41
+572,Bulgaria,2018,5.21
+573,Bahrain,2018,1.2
+574,Bahamas,2018,10
+575,Bosnia and Herzegovina,2018,18.4
+576,Belarus,2018,4.76
+577,Belize,2018,6.64
+578,Bolivia,2018,3.52
+579,Brazil,2018,12.33
+580,Barbados,2018,8.32
+581,Brunei Darussalam,2018,8.7
+582,Bhutan,2018,2.44
+583,Botswana,2018,22.07
+584,Central African Republic,2018,5.61
+585,Canada,2018,5.83
+586,Switzerland,2018,4.71
+587,Channel Islands,2018,6.57
+588,Chile,2018,7.23
+589,China,2018,4.28
+590,Cote d'Ivoire,2018,3.29
+591,Cameroon,2018,3.62
+592,Dem. Rep of Congo,2018,4.45
+593,Rep. of Congo,2018,20.61
+594,Colombia,2018,9.11
+595,Comoros,2018,8.08
+596,Cabo Verde,2018,12.17
+597,Costa Rica,2018,9.63
+598,Cuba,2018,1.7
+599,Cyprus,2018,8.37
+600,Czech Rep.,2018,2.24
+601,Germany,2018,3.38
+602,Djibouti,2018,26.19
+603,Denmark,2018,5.13
+604,Dominican Rep,2018,5.86
+605,Algeria,2018,10.42
+606,Ecuador,2018,3.53
+607,Egypt,2018,9.82
+608,Eritrea,2018,5.95
+609,Spain,2018,15.25
+610,Estonia,2018,5.37
+611,Ethiopia,2018,2.32
+612,Finland,2018,7.36
+613,Fiji,2018,4.33
+614,France,2018,9.02
+615,Gabon,2018,20.75
+616,United Kingdom,2018,4
+617,Georgia,2018,12.67
+618,Ghana,2018,4.28
+619,Guinea,2018,4.98
+620,Gambia,2018,9.48
+621,Guinea-Bissau,2018,5.98
+622,Equatorial Guinea,2018,8.62
+623,Greece,2018,19.29
+624,Guatemala,2018,2.28
+625,Guam,2018,5.56
+626,Guyana,2018,14.02
+627,Hong Kong ,2018,2.82
+628,Honduras,2018,5.65
+629,Croatia,2018,8.43
+630,Haiti,2018,13.86
+631,Hungary,2018,3.71
+632,Indonesia,2018,4.4
+633,India,2018,5.33
+634,Ireland,2018,5.74
+635,Iran,2018,12.19
+636,Iraq,2018,12.97
+637,Iceland,2018,2.7
+638,Israel,2018,4
+639,Italy,2018,10.61
+640,Jamaica,2018,9.1
+641,Jordan,2018,18.27
+642,Japan,2018,2.4
+643,Kazakhstan,2018,4.85
+644,Kenya,2018,4.25
+645,Kyrgyz Rep.,2018,6.89
+646,Cambodia,2018,0.14
+647,South Korea,2018,3.82
+648,Kuwait,2018,2.16
+649,Lebanon,2018,10.8
+650,Liberia,2018,3.03
+651,Libya,2018,19.45
+652,St. Lucia,2018,19.08
+653,Sri Lanka,2018,4.32
+654,Lesotho,2018,22.81
+655,Lithuania,2018,6.15
+656,Luxembourg,2018,5.59
+657,Latvia,2018,7.41
+658,Macao ,2018,1.83
+659,Morocco,2018,9.27
+660,Moldova,2018,4.11
+661,Madagascar,2018,1.84
+662,Maldives,2018,5.62
+663,Mexico,2018,3.28
+664,North Macedonia,2018,20.74
+665,Mali,2018,7.43
+666,Malta,2018,3.66
+667,Myanmar,2018,0.87
+668,Montenegro,2018,15.17
+669,Mongolia,2018,5.38
+670,Mozambique,2018,3.46
+671,Mauritania,2018,10.39
+672,Mauritius,2018,6.43
+673,Malawi,2018,5.76
+674,Malaysia,2018,3.3
+675,Namibia,2018,19.88
+676,New Caledonia,2018,14.85
+677,Niger,2018,0.55
+678,Nigeria,2018,8.46
+679,Nicaragua,2018,5.2
+680,Netherlands,2018,3.83
+681,Norway,2018,3.8
+682,Nepal,2018,3.19
+683,New Zealand,2018,4.33
+684,Oman,2018,1.8
+685,Pakistan,2018,4.08
+686,Panama,2018,3.83
+687,Peru,2018,3.49
+688,Philippines,2018,2.34
+689,Papua New Guinea,2018,2.56
+690,Poland,2018,3.85
+691,Puerto Rico,2018,9.2
+692,North Korea,2018,2.63
+693,Portugal,2018,6.99
+694,Paraguay,2018,6.22
+695,West Bank and Gaza,2018,26.26
+696,French Polynesia,2018,12.25
+697,Qatar,2018,0.11
+698,Romania,2018,4.19
+699,Russia,2018,4.85
+700,Rwanda,2018,1.11
+701,Saudi Arabia,2018,6.04
+702,Sudan,2018,17.58
+703,Senegal,2018,3.28
+704,Singapore,2018,3.64
+705,Solomon Islands,2018,0.72
+706,Sierra Leone,2018,4.66
+707,El Salvador,2018,4.01
+708,Somalia,2018,18.85
+709,Serbia,2018,12.73
+710,South Sudan,2018,12.24
+711,Sao Tome and Principe,2018,14.06
+712,Suriname,2018,7.93
+713,Slovak Rep.,2018,6.54
+714,Slovenia,2018,5.11
+715,Sweden,2018,6.36
+716,Eswatini,2018,22.79
+717,Syria,2018,8.76
+718,Chad,2018,1.13
+719,Togo,2018,3.73
+720,Thailand,2018,0.77
+721,Tajikistan,2018,7.01
+722,Turkmenistan,2018,4.23
+723,Timor-Leste,2018,4.73
+724,Tonga,2018,3.07
+725,Trinidad and Tobago,2018,3.34
+726,Tunisia,2018,15.46
+727,Turkiye,2018,10.89
+728,Tanzania,2018,2.21
+729,Uganda,2018,1.92
+730,Ukraine,2018,8.8
+731,Uruguay,2018,8.34
+732,USA,2018,3.9
+733,Uzbekistan,2018,5.84
+734,St. Vincent and the Grenadines,2018,19.18
+735,Venezuela,2018,5.02
+736,Virgin Islands ,2018,12.43
+737,Vietnam,2018,1.16
+738,Vanuatu,2018,1.81
+739,Samoa,2018,8.69
+740,Yemen,2018,13.15
+741,South Africa,2018,26.91
+742,Zambia,2018,12.01
+743,Zimbabwe,2018,4.8
+744,Afghanistan,2019,11.22
+745,Angola,2019,7.42
+746,Albania,2019,11.47
+747,UAE,2019,2.23
+748,Argentina,2019,9.84
+749,Armenia,2019,18.3
+750,Australia,2019,5.16
+751,Austria,2019,4.49
+752,Azerbaijan,2019,4.85
+753,Burundi,2019,1.59
+754,Belgium,2019,5.36
+755,Benin,2019,1.47
+756,Burkina Faso,2019,4.69
+757,Bangladesh,2019,4.44
+758,Bulgaria,2019,4.23
+759,Bahrain,2019,1.2
+760,Bahamas,2019,10.06
+761,Bosnia and Herzegovina,2019,15.69
+762,Belarus,2019,4.16
+763,Belize,2019,6.71
+764,Bolivia,2019,3.82
+765,Brazil,2019,11.93
+766,Barbados,2019,8.41
+767,Brunei Darussalam,2019,6.92
+768,Bhutan,2019,2.5
+769,Botswana,2019,22.61
+770,Central African Republic,2019,5.62
+771,Canada,2019,5.66
+772,Switzerland,2019,4.39
+773,Channel Islands,2019,6.41
+774,Chile,2019,7.29
+775,China,2019,4.52
+776,Cote d'Ivoire,2019,3.32
+777,Cameroon,2019,3.64
+778,Dem. Rep of Congo,2019,4.45
+779,Rep. of Congo,2019,20.62
+780,Colombia,2019,9.96
+781,Comoros,2019,8.08
+782,Cabo Verde,2019,12.22
+783,Costa Rica,2019,11.49
+784,Cuba,2019,1.74
+785,Cyprus,2019,7.07
+786,Czech Rep.,2019,2.01
+787,Germany,2019,3.14
+788,Djibouti,2019,26.36
+789,Denmark,2019,5.02
+790,Dominican Rep,2019,6.36
+791,Algeria,2019,10.51
+792,Ecuador,2019,3.81
+793,Egypt,2019,7.84
+794,Eritrea,2019,5.99
+795,Spain,2019,14.1
+796,Estonia,2019,4.45
+797,Ethiopia,2019,2.33
+798,Finland,2019,6.69
+799,Fiji,2019,4.45
+800,France,2019,8.41
+801,Gabon,2019,20.74
+802,United Kingdom,2019,3.74
+803,Georgia,2019,11.57
+804,Ghana,2019,4.32
+805,Guinea,2019,5.02
+806,Gambia,2019,9.5
+807,Guinea-Bissau,2019,6.04
+808,Equatorial Guinea,2019,8.68
+809,Greece,2019,17.31
+810,Guatemala,2019,2.19
+811,Guam,2019,5.51
+812,Guyana,2019,13.99
+813,Hong Kong ,2019,2.93
+814,Honduras,2019,5.7
+815,Croatia,2019,6.62
+816,Haiti,2019,13.91
+817,Hungary,2019,3.42
+818,Indonesia,2019,3.62
+819,India,2019,5.27
+820,Ireland,2019,4.95
+821,Iran,2019,10.74
+822,Iraq,2019,12.86
+823,Iceland,2019,3.51
+824,Israel,2019,3.8
+825,Italy,2019,9.95
+826,Jamaica,2019,7.69
+827,Jordan,2019,16.81
+828,Japan,2019,2.4
+829,Kazakhstan,2019,4.8
+830,Kenya,2019,5.01
+831,Kyrgyz Rep.,2019,6.92
+832,Cambodia,2019,0.15
+833,South Korea,2019,3.75
+834,Kuwait,2019,2.17
+835,Lebanon,2019,11.35
+836,Liberia,2019,3.02
+837,Libya,2019,19.66
+838,St. Lucia,2019,15.32
+839,Sri Lanka,2019,4.35
+840,Lesotho,2019,22.44
+841,Lithuania,2019,6.26
+842,Luxembourg,2019,5.59
+843,Latvia,2019,6.31
+844,Macao ,2019,1.75
+845,Morocco,2019,9.28
+846,Moldova,2019,5.1
+847,Madagascar,2019,1.86
+848,Maldives,2019,5.34
+849,Mexico,2019,3.48
+850,North Macedonia,2019,17.26
+851,Mali,2019,7.44
+852,Malta,2019,3.62
+853,Myanmar,2019,0.5
+854,Montenegro,2019,15.12
+855,Mongolia,2019,5.44
+856,Mozambique,2019,3.47
+857,Mauritania,2019,10.39
+858,Mauritius,2019,6.33
+859,Malawi,2019,5.75
+860,Malaysia,2019,3.26
+861,Namibia,2019,19.99
+862,New Caledonia,2019,14.91
+863,Niger,2019,0.55
+864,Nigeria,2019,8.53
+865,Nicaragua,2019,5.21
+866,Netherlands,2019,3.38
+867,Norway,2019,3.69
+868,Nepal,2019,3.1
+869,New Zealand,2019,4.11
+870,Oman,2019,1.85
+871,Pakistan,2019,3.54
+872,Panama,2019,4.73
+873,Peru,2019,3.38
+874,Philippines,2019,2.24
+875,Papua New Guinea,2019,2.45
+876,Poland,2019,3.28
+877,Puerto Rico,2019,8.3
+878,North Korea,2019,2.59
+879,Portugal,2019,6.46
+880,Paraguay,2019,6.59
+881,West Bank and Gaza,2019,25.34
+882,French Polynesia,2019,12.3
+883,Qatar,2019,0.1
+884,Romania,2019,3.91
+885,Russia,2019,4.5
+886,Rwanda,2019,1.1
+887,Saudi Arabia,2019,5.67
+888,Sudan,2019,17.65
+889,Senegal,2019,2.86
+890,Singapore,2019,3.1
+891,Solomon Islands,2019,0.75
+892,Sierra Leone,2019,4.65
+893,El Salvador,2019,4.17
+894,Somalia,2019,18.83
+895,Serbia,2019,10.39
+896,South Sudan,2019,12.23
+897,Sao Tome and Principe,2019,14.14
+898,Suriname,2019,8.04
+899,Slovak Rep.,2019,5.75
+900,Slovenia,2019,4.45
+901,Sweden,2019,6.83
+902,Eswatini,2019,22.84
+903,Syria,2019,8.77
+904,Chad,2019,1.12
+905,Togo,2019,3.72
+906,Thailand,2019,0.72
+907,Tajikistan,2019,7.06
+908,Turkmenistan,2019,4.27
+909,Timor-Leste,2019,4.51
+910,Tonga,2019,3.06
+911,Trinidad and Tobago,2019,3.42
+912,Tunisia,2019,15.13
+913,Turkiye,2019,13.67
+914,Tanzania,2019,2.22
+915,Uganda,2019,1.92
+916,Ukraine,2019,8.19
+917,Uruguay,2019,8.88
+918,USA,2019,3.67
+919,Uzbekistan,2019,5.85
+920,St. Vincent and the Grenadines,2019,19.28
+921,Venezuela,2019,5.1
+922,Virgin Islands ,2019,12.47
+923,Vietnam,2019,2.04
+924,Vanuatu,2019,1.8
+925,Samoa,2019,8.41
+926,Yemen,2019,13.06
+927,South Africa,2019,28.47
+928,Zambia,2019,12.52
+929,Zimbabwe,2019,4.83
+930,Afghanistan,2020,11.71
+931,Angola,2020,8.33
+932,Albania,2020,13.33
+933,UAE,2020,3.19
+934,Argentina,2020,11.46
+935,Armenia,2020,21.21
+936,Australia,2020,6.46
+937,Austria,2020,5.36
+938,Azerbaijan,2020,6.46
+939,Burundi,2020,1.71
+940,Belgium,2020,5.55
+941,Benin,2020,1.58
+942,Burkina Faso,2020,4.89
+943,Bangladesh,2020,5.41
+944,Bulgaria,2020,5.12
+945,Bahrain,2020,1.78
+946,Bahamas,2020,13.32
+947,Bosnia and Herzegovina,2020,15.27
+948,Belarus,2020,4.77
+949,Belize,2020,8.46
+950,Bolivia,2020,7.9
+951,Brazil,2020,13.69
+952,Barbados,2020,10.38
+953,Brunei Darussalam,2020,7.68
+954,Bhutan,2020,3.65
+955,Botswana,2020,24.93
+956,Central African Republic,2020,6.36
+957,Canada,2020,9.46
+958,Switzerland,2020,4.82
+959,Channel Islands,2020,7.69
+960,Chile,2020,11.18
+961,China,2020,5
+962,Cote d'Ivoire,2020,3.49
+963,Cameroon,2020,3.84
+964,Dem. Rep of Congo,2020,5.27
+965,Rep. of Congo,2020,22.84
+966,Colombia,2020,15.04
+967,Comoros,2020,9.22
+968,Cabo Verde,2020,15.31
+969,Costa Rica,2020,17.41
+970,Cuba,2020,2.62
+971,Cyprus,2020,7.59
+972,Czech Rep.,2020,2.55
+973,Germany,2020,3.81
+974,Djibouti,2020,28.39
+975,Denmark,2020,5.64
+976,Dominican Rep,2020,6.13
+977,Algeria,2020,12.55
+978,Ecuador,2020,6.11
+979,Egypt,2020,9.17
+980,Eritrea,2020,7.86
+981,Spain,2020,15.53
+982,Estonia,2020,6.8
+983,Ethiopia,2020,3.24
+984,Finland,2020,7.76
+985,Fiji,2020,4.72
+986,France,2020,8.01
+987,Gabon,2020,21.97
+988,United Kingdom,2020,4.47
+989,Georgia,2020,18.5
+990,Ghana,2020,4.65
+991,Guinea,2020,6.1
+992,Gambia,2020,11.08
+993,Guinea-Bissau,2020,6.74
+994,Equatorial Guinea,2020,9.9
+995,Greece,2020,16.3
+996,Guatemala,2020,3.55
+997,Guam,2020,6.8
+998,Guyana,2020,16.43
+999,Hong Kong ,2020,5.83
+1000,Honduras,2020,8.37
+1001,Croatia,2020,7.51
+1002,Haiti,2020,15.45
+1003,Hungary,2020,4.25
+1004,Indonesia,2020,4.28
+1005,India,2020,8
+1006,Ireland,2020,5.62
+1007,Iran,2020,12.17
+1008,Iraq,2020,14.09
+1009,Iceland,2020,5.48
+1010,Israel,2020,4.33
+1011,Italy,2020,9.16
+1012,Jamaica,2020,9.48
+1013,Jordan,2020,19.03
+1014,Japan,2020,2.8
+1015,Kazakhstan,2020,4.89
+1016,Kenya,2020,5.73
+1017,Kyrgyz Rep.,2020,8.71
+1018,Cambodia,2020,0.33
+1019,South Korea,2020,3.93
+1020,Kuwait,2020,3.54
+1021,Lebanon,2020,13.3
+1022,Liberia,2020,3.98
+1023,Libya,2020,20.07
+1024,St. Lucia,2020,16.89
+1025,Sri Lanka,2020,5.88
+1026,Lesotho,2020,24.56
+1027,Lithuania,2020,8.49
+1028,Luxembourg,2020,6.77
+1029,Latvia,2020,8.1
+1030,Macao ,2020,2.57
+1031,Morocco,2020,11.45
+1032,Moldova,2020,3.82
+1033,Madagascar,2020,2.47
+1034,Maldives,2020,6.33
+1035,Mexico,2020,4.45
+1036,North Macedonia,2020,17.2
+1037,Mali,2020,7.7
+1038,Malta,2020,4.26
+1039,Myanmar,2020,1.06
+1040,Montenegro,2020,17.9
+1041,Mongolia,2020,7.01
+1042,Mozambique,2020,3.81
+1043,Mauritania,2020,11.27
+1044,Mauritius,2020,7.41
+1045,Malawi,2020,6.7
+1046,Malaysia,2020,4.5
+1047,Namibia,2020,21.45
+1048,New Caledonia,2020,16.43
+1049,Niger,2020,0.62
+1050,Nigeria,2020,9.71
+1051,Nicaragua,2020,6.08
+1052,Netherlands,2020,3.82
+1053,Norway,2020,4.42
+1054,Nepal,2020,4.72
+1055,New Zealand,2020,4.59
+1056,Oman,2020,2.94
+1057,Pakistan,2020,4.3
+1058,Panama,2020,12.85
+1059,Peru,2020,7.18
+1060,Philippines,2020,2.52
+1061,Papua New Guinea,2020,2.6
+1062,Poland,2020,3.16
+1063,Puerto Rico,2020,8.89
+1064,North Korea,2020,2.92
+1065,Portugal,2020,6.79
+1066,Paraguay,2020,7.55
+1067,West Bank and Gaza,2020,25.89
+1068,French Polynesia,2020,14.1
+1069,Qatar,2020,0.21
+1070,Romania,2020,5.03
+1071,Russia,2020,5.59
+1072,Rwanda,2020,1.49
+1073,Saudi Arabia,2020,7.45
+1074,Sudan,2020,19.65
+1075,Senegal,2020,3.62
+1076,Singapore,2020,4.1
+1077,Solomon Islands,2020,0.92
+1078,Sierra Leone,2020,5.2
+1079,El Salvador,2020,6.25
+1080,Somalia,2020,19.72
+1081,Serbia,2020,9.01
+1082,South Sudan,2020,14.03
+1083,Sao Tome and Principe,2020,15.75
+1084,Suriname,2020,9.78
+1085,Slovak Rep.,2020,6.69
+1086,Slovenia,2020,4.97
+1087,Sweden,2020,8.29
+1088,Eswatini,2020,25.51
+1089,Syria,2020,10.26
+1090,Chad,2020,1.74
+1091,Togo,2020,3.94
+1092,Thailand,2020,1.1
+1093,Tajikistan,2020,7.58
+1094,Turkmenistan,2020,4.95
+1095,Timor-Leste,2020,4.91
+1096,Tonga,2020,3.63
+1097,Trinidad and Tobago,2020,4.57
+1098,Tunisia,2020,16.59
+1099,Turkiye,2020,13.11
+1100,Tanzania,2020,2.53
+1101,Uganda,2020,2.77
+1102,Ukraine,2020,9.13
+1103,Uruguay,2020,10.35
+1104,USA,2020,8.05
+1105,Uzbekistan,2020,7.04
+1106,St. Vincent and the Grenadines,2020,21
+1107,Venezuela,2020,6.63
+1108,Virgin Islands ,2020,13.55
+1109,Vietnam,2020,2.39
+1110,Vanuatu,2020,2.12
+1111,Samoa,2020,9.15
+1112,Yemen,2020,13.39
+1113,South Africa,2020,29.22
+1114,Zambia,2020,12.85
+1115,Zimbabwe,2020,5.35
