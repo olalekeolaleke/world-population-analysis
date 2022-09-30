@@ -1,12 +1,12 @@
 .col-md-12 {
-    /* background-color: gray; */
+    background-color: aquamarine;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: inherit;
     color: black;
     }
     
     .well { 
-        background-color: lightgray;
+        background-color:  aquamarine;
         font-family: 'Times New Roman', Times, serif;
         font-weight: bolder; 
     } 
@@ -15,7 +15,7 @@
         background-color: aquamarine; */
     /* } */
     
-     /* .panel-heading { 
+     .panel-heading { 
         font-family: Arial, Helvetica, sans-serif;
         font-weight: bolder;
     }
@@ -34,4 +34,4 @@
     width: 1000px;
     height: 400px;
       }
-       */
+      

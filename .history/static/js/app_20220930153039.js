@@ -3,7 +3,7 @@
 
         var selector = d3.select("#selDataset");
 
-        d3.json("/static/world_population.json").then((data) => {
+        d3.json("/data/world_population.json").then((data) => {
             var subjectIds = data.names;
 
             console.log(data);
@@ -23,7 +23,7 @@
 
 
     function updateMetadata(sample) {
-        d3.json("/static/world_population.json").then((data) => {
+        d3.json("/data/world_population.json").then((data) => {
             var metadata = data.metadata;
 
             console.log(data);
@@ -67,7 +67,7 @@
     }
 
     function updatedCharts(sample) {
-        d3.json("/static/world_population.json").then((data) => {
+        d3.json("/data/world_population.json").then((data) => {
             var samples = data.metadata;
             console.log(samples);
             var country = samples.map(obj => obj.id);

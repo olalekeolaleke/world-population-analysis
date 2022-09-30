@@ -1,12 +1,12 @@
 .col-md-12 {
-    /* background-color: gray; */
+    /* background-color: aquamarine; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: inherit;
     color: black;
     }
     
     .well { 
-        background-color: lightgray;
+        background-color: rgb(131, 131, 217);
         font-family: 'Times New Roman', Times, serif;
         font-weight: bolder; 
     } 
