@@ -125,8 +125,6 @@
 
             console.log(country);
             console.log(population);
-
-            // Plotting bar chart
    
             var layout = {
                     height: 500,
@@ -156,8 +154,6 @@ console.log(trace1);
         width: 1000,
         title: "Top 20 World Smallest Countries by Population"
     };
-
-    // Plotting the second bar chart
 
     var trace3 = {
         x: country.reverse().slice(0, 20),
