@@ -43,7 +43,7 @@
                      domain: {'x': result.id, 'y': result.pop2022},
                      marker: {size: 28, color: 'royalblue'},
                      value: result.GrowthRate,
-                     delta: {reference: 0, increasing: {color: "RebeccaPurple"}},
+                     delta: {reference: 1, increasing: {color: "RebeccaPurple"}},
                      title: ("GrwothRate Analysis by Countries (%)"),
                      font: {
                          family: 'Raleway, sans-serif'
@@ -73,11 +73,9 @@
             var country = samples.map(obj => obj.id);
             var population = samples.map(obj => obj.pop2021);
             var population2 = samples.map(obj => obj.pop2022);
-            var growthRate = samples.map(obj => obj.GrowthRate);
 
             console.log(country);
             console.log(population);
-            console.log(growthRate);
 
             // Plotting bar chart
    
@@ -128,22 +126,6 @@ console.log(trace1);
     var newData2 = [trace3, trace4];
     // console.log(trace1);
         Plotly.newPlot("bar3", newData2, layout);
-
-    //     var layout = {
-    //         height: 500,
-    //         width: 2000,
-    //         title: "World Population GrowthRate by Countries (%)"
-    //     };
-
-    // var trace5 = {
-    //     x: country,
-    //     y: growthRate,
-    //     mode: 'markers',
-    //     type: 'scatter',
-    //     marker: { size: 12 }
-    // };
-    // var newData3 = [trace5];
-    // Plotly.newPlot("bar4", newData3,layout);
 });
 }
 

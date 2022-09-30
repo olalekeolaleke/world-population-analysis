@@ -77,7 +77,6 @@
 
             console.log(country);
             console.log(population);
-            console.log(growthRate);
 
             // Plotting bar chart
    
@@ -129,21 +128,20 @@ console.log(trace1);
     // console.log(trace1);
         Plotly.newPlot("bar3", newData2, layout);
 
-    //     var layout = {
-    //         height: 500,
-    //         width: 2000,
-    //         title: "World Population GrowthRate by Countries (%)"
-    //     };
+        var layout = {
+            height: 500,
+            width: 1000,
+            title: "Top 20 World Smallest Countries by Population ('000)"
+        };
 
-    // var trace5 = {
-    //     x: country,
-    //     y: growthRate,
-    //     mode: 'markers',
-    //     type: 'scatter',
-    //     marker: { size: 12 }
-    // };
-    // var newData3 = [trace5];
-    // Plotly.newPlot("bar4", newData3,layout);
+    var trace5 = {
+        x: country,
+        y: growthRate,
+        type: 'bar'
+    };
+    var newData3 = (trace5);
+    console.log(trace5);
+    Plotly.newPlot("bar4", newData3,layout);
 });
 }
 
