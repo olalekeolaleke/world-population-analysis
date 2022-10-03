@@ -1,0 +1,49 @@
+
+.col-md-12 {
+    background-color: #127cc3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    color: whitesmoke;
+    }
+    
+    .well { 
+        background-color: #127cc3;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bolder; 
+        color: black;
+    } 
+
+    body {
+      padding: 0;
+      margin: 0;
+    }
+    
+    #map,
+    body,
+    html {
+      height: 100%;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+
+    li, a, button {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      color: #19596e;
+      text-decoration: none;
+    }
+
+    .nav_links {
+      list-style: none;
+    }
+    
+    .nav_links li {
+      display: inline-block;
+      padding: 0px 20px;
+    }
+
+    .nav_links li a 
+  
