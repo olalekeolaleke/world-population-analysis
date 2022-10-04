@@ -16,6 +16,19 @@ TABLESPACE pg_default;
 
 ALTER TABLE IF EXISTS public.world_population
     OWNER to postgres;
-   
-   
-SELECT * FROM public.world_population;
+
+-- Table: public.world_coordinates
+
+-- DROP TABLE IF EXISTS public.world_coordinates;
+
+CREATE TABLE IF NOT EXISTS public.world_coordinates
+(
+    id text COLLATE pg_catalog."default",
+    latitude double precision,
+    longitude double precision
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.world_coordinates
+    OWNER to postgres;
