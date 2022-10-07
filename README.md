@@ -35,4 +35,9 @@ GitHub
 
 Microsoft Office
 
+![newplot (1)](https://user-images.githubusercontent.com/105587442/194523563-2691fd03-74f8-4641-bb86-de02ac352253.png)
+![newplot (2)](https://user-images.githubusercontent.com/105587442/194523576-a38332db-fd73-4a8a-9b5d-6b95e1752596.png)
+![newplot (3)](https://user-images.githubusercontent.com/105587442/194523591-22ffbc37-c8e2-465a-86c2-a8abcd370d36.png)
+![newplot (4)](https://user-images.githubusercontent.com/105587442/194523613-d6a4e92a-3b70-49c0-9799-2538cd80740b.png)
+![newplot](https://user-images.githubusercontent.com/105587442/194523631-121fe376-5d21-4049-8a00-548f63bd55b5.png)
 
